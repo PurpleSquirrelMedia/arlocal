@@ -47,7 +47,7 @@
     "koa-router": "^10.1.1",
     "lodash": "^4.17.21",
     "mime": "^3.0.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "moment": "^2.29.1",
     "rfc4648": "^1.5.1",
     "smartweave": "^0.4.46",
